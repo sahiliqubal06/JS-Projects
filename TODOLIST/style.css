@@ -43,6 +43,7 @@ input[type="text"] {
   border-radius: 5px;
   color: #fff;
   outline: none;
+  margin-bottom: 20px;
 }
 
 button {
