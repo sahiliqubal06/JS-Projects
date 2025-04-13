@@ -55,6 +55,20 @@ h2 {
   background-attachment: #3700b3;
 }
 
+.remove-btn {
+  background-color: #6200ea;
+  border: none;
+  padding: 5px 10px;
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.remove-btn:hover {
+  background-attachment: #3700b3;
+}
+
 #cart-items {
   margin-bottom: 20px;
 }
